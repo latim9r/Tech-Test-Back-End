@@ -1,9 +1,9 @@
-Parmenion Technical Test for Back End Developers
+Parmenion Technical Test for Developers
 ==================================
 
-The technical test cosists of a coding test and a few follow-up questions.  You can take as long as you want but we would allow at least 4 hours.
+The technical test consists of a coding test and a few follow-up questions.  You can take as long as you want but we would allow at least 4 hours.
 
-Once complete please send a zip file containing two folders.  One with all the code required to run you solution and the other with the answers to the questions as a PDF.
+Once complete please send a zip file containing two folders.  One with all the code required to run your solution and the other with the answers to the questions as a PDF.
 
 ## Code Test
 
